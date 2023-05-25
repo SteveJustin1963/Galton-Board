@@ -58,3 +58,6 @@ The central limit theorem has several important implications and applications:
 
 Overall, the central limit theorem is a powerful concept in statistics that helps us understand the behavior of sample means and sums. It plays a crucial role in statistical analysis, hypothesis testing, confidence intervals, and sampling theory, making it a fundamental tool for researchers and statisticians.
 
+## Ref
+- https://www.mathsisfun.com/data/quincunx.html
+- 
