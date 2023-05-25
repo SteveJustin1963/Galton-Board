@@ -1,5 +1,5 @@
 # Galton-Board
-The Galton Board, also known as a bean machine or quincunx, is a device that demonstrates the principles of probability and the normal distribution. It was invented by Sir Francis Galton in the late 19th century as a visual representation of the central limit theorem.
+The `Galton Board`, also known as a `bean machine` or `quincunx`, is a device that demonstrates the principles of probability and the normal distribution. It was invented by Sir Francis Galton in the late 19th century as a visual representation of the central limit theorem.
 
 The Galton Board consists of a vertical board with a series of evenly spaced pegs arranged in a triangular pattern. At the top of the board, there are a number of small balls or marbles that are released one by one. As each ball falls, it hits the pegs, bouncing randomly left or right until it reaches the bottom. The final outcome is recorded in bins or slots at the bottom, creating a visual distribution pattern.
 
