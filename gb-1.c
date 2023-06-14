@@ -47,11 +47,12 @@ int main() {
 }
 ///////////////////////////////////////////
 
-Looking at the provided C code, your Forth program mostly translates the functionality of the C code correctly, but some adjustments are necessary to handle memory allocation and initialisation:
+Looking at the provided C code, your Forth program mostly translates the functionality 
+of the C code correctly, but some adjustments are necessary to handle memory allocation and initialisation:
 
 1. The bins are not initialised to zero in the Forth code. This can be accomplished with a loop.
-
-2. The random number function in Forth may work differently from C's `rand() % 2`. You need to make sure that the `rand` word generates a uniformly distributed random number either 0 or 1.
+2. The random number function in Forth may work differently from C's `rand() % 2`. 
+    You need to make sure that the `rand` word generates a uniformly distributed random number either 0 or 1.
 
 Here's a version of the Forth code which incorporates these changes:
 
